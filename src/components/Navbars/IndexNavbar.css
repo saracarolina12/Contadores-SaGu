@@ -1,0 +1,20 @@
+@font-face {
+    font-family: imgText;
+    src: url(./Fonts/Logo.ttf);
+}
+
+.imgTitulo{
+    width: 9%;
+    border-radius: 5%;
+    margin-top: -2%;
+    margin-left: -14%;
+}
+
+.ImgText{
+    font-family: imgText;
+    color: #1c3cc1;
+}
+
+.navcol{
+    color: black; 
+}

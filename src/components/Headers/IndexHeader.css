@@ -1,0 +1,25 @@
+@font-face {
+    font-family: FontTittle;
+    src: url(./Fonts/Dream.otf);
+}
+.tittle{
+    font-family: FontTittle;
+    /* font-size: 600%; */
+    color: #96cffd;
+    font-size: 6vw;
+    text-shadow: 
+    1px 1px 0 #639dcc,
+    -1px -1px 0 #639dcc,  
+    1px -1px 0 #639dcc,
+    -1px 1px 0 #639dcc,
+    1px 1px 0 #639dcc;
+    -webkit-text-stroke: 1px #639dcc
+}
+.sub{
+    font-family: FontTittle;
+    /* font-size: 177%; */
+    font-size: 1.8vw;
+    margin-top: -2%;
+    color: rgb(36, 70, 143);
+
+}

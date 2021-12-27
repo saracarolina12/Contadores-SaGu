@@ -36,8 +36,10 @@ function IndexHeader() {
         ></div>
         <Container>
           <div className="content-center brand">
-            <h1 className="tittle">Contadores SaGu</h1>
-            <h3 className="sub"><i>¡Tú haces las ganancias, nosotros los impuestos!</i></h3>
+            <div className="Color">
+                <h1 className="tittle">Contadores SaGu</h1>
+                <h3 className="sub"><i>¡Tú haces las ganancias, nosotros los impuestos!</i></h3>
+            </div>
           </div>
         </Container>
       </div>

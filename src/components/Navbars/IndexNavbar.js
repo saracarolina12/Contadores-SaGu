@@ -61,8 +61,9 @@ function IndexNavbar() {
             <NavbarBrand>
               <br/>
                 <img src={Logo} alt="Logo" className="imgTitulo"/>
-                <p className="ImgText" style={{fontSize: "1.2vw"}}><b>Servicios Contables,<br/>Fiscales y Financieros</b></p>
+                  <p className="ImgText" style={{fontSize: "1.2vw"}}><b>Servicios Contables,<br/>Fiscales y Financieros</b></p>
             </NavbarBrand>
+            <div className='cuadrologo'></div>
 
             {/* HAMBURGUESITA */}
             {/* <button

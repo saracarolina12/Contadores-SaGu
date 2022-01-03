@@ -3,18 +3,24 @@
     src: url(./Fonts/Logo.ttf);
 }
 .imgTitulo{
-    width: 9%;
+    width: 8%;
     border-radius: 5%;
     margin-top: -2%;
-    margin-left: -14%;
+    margin-left: -11%;
 }
 .ImgText{
-    font-family: imgText;
+    /* font-family: imgText;
     color: #c7980a;
     margin: 0 auto;
     text-align: center;
     font-weight: 700;
-    text-shadow: -4px 1.4px 0 #705608;
+    text-shadow: -4px 1.4px 0 #705608; */
+    font-family: imgText;
+    color: #c7a642;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 700;
+    text-shadow: -2px 1px 1px #684e01;
 }
 .navcol{
     color: black; 

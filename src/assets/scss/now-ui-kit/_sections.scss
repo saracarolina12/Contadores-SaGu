@@ -109,7 +109,7 @@
     }
 
     &[filter-color="orange"]{
-        @include linear-gradient(rgba($black-color,.20), rgba(75, 99, 233, 0.527));
+        @include linear-gradient(rgba($black-color,.20), rgba(0, 112, 177, 0.473));
     }
 }
 

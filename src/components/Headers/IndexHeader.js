@@ -28,7 +28,7 @@ function IndexHeader() {
         <div
           className="page-header-image"
           style={{
-            filter: "blur(4px)",
+            filter: "blur(3px)",
             backgroundImage:
               "url(" + require("assets/img/Principal.jpg").default + ")",
           }}

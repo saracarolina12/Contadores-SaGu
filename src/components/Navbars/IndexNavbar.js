@@ -57,16 +57,16 @@ function IndexNavbar() {
       ) : null}
       <Navbar className={"fixed-top " + navbarColor} expand="lg" color="info">
         <Container>
-          <div className="navbar-translate">
+          {/* <div className="navbar-translate"> */}
             <NavbarBrand>
               <br/>
                 <img src={Logo} alt="Logo" className="imgTitulo"/>
                 <p className="ImgText" style={{fontSize: "1.2vw"}}><b>Servicios Contables,<br/>Fiscales y Financieros</b></p>
             </NavbarBrand>
-            <div className='cuadrologo'></div>
-
+            
             {/* HAMBURGUESITA */}
-            {/* <button
+            {/* <div className='cuadrologo'></div>
+            <button
               className="navbar-toggler navbar-toggler"
               onClick={() => {
                 document.documentElement.classList.toggle("nav-open");
@@ -79,7 +79,7 @@ function IndexNavbar() {
               <span className="navbar-toggler-bar middle-bar"></span>
               <span className="navbar-toggler-bar bottom-bar"></span>
             </button> */}
-          </div>
+          {/* </div> */}
           <Collapse
             className="justify-content-end"
             isOpen={collapseOpen}

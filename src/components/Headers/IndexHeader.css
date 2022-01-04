@@ -4,20 +4,11 @@
 }
 .tittle{
     font-family: FontTittle;
-    /* font-size: 600%; */
     color: #d4dcfd;
     font-size: 6vw;
-    /* text-shadow: 
-    1px 1px 0 #9aa1ff,
-    -1px -1px 0 #adbcfa,  
-    1px -1px 0 #adbcfa,
-    -1px 1px 0 #adbcfa,
-    1px 1px 0 #adbcfa;
-    -webkit-text-stroke: 1px #adbcfa */
 }
 .sub{
     font-family: FontTittle;
-    /* font-size: 177%; */
     font-size: 1.8vw;
     margin-top: -2%;
     color: rgb(186, 207, 252);

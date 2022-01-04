@@ -15,3 +15,15 @@
     margin-left: 55%;
     margin-top: -29.2%;
 }
+
+.color{
+    background-color: #e9f4fc;
+}
+
+@font-face {
+    font-family: Quienes;
+    src: url(./Dream.otf);
+}
+.Who{
+    font-family: Quienes;
+}
